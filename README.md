@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **kimboyd12/kimboyd12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👩🏻‍💻 I'm Kim! I'm a Full Stack development student @LambdaSchool
+🧠 I'm currently learning Node.js 
+✨ she/her
