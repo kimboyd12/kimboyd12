@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩🏻‍💻 I'm Kim! I'm a Full Stack development student @LambdaSchool <br>
+👩🏻‍💻 I'm Kim! I'm a full stack web development student @LambdaSchool <br>
 💡 I'm currently learning Node.js <br>
 📬 Let's chat! kimberlyboyd2@gmail.com <br>
 ✨ she/her
