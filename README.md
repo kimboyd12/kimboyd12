@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 👩🏻‍💻 Full stack web development student @LambdaSchool <br>
-💡 HTML|CSS|JavaScript|React|Redux|Node|SQL
+💡 HTML|CSS|JavaScript|React|Redux|Node|SQL <br>
 🌱 Currently learning Python <br>
 📬 Let's chat! kimberlyboyd2@gmail.com <br>
 ✨ she/her
