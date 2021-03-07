@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩🏻‍💻 Full stack web development student @LambdaSchool <br>
-💡 HTML|CSS|JavaScript|React|Redux|Node|SQL|Python <br>
-🌱 LABSPT16 <br>
+👩🏻‍💻 Full Stack Web Developer | @LambdaSchool student - LABSPT16<br>
+💡 HTML|CSS|JavaScript|React|Redux|Context|Node|Express|SQL|PostgreSQL|Docker|Python <br>
+🐶 Currently working on an app called Express Groomer<br>
 📬 Let's chat! kimberlyboyd2@gmail.com <br>
 ✨ she/her
