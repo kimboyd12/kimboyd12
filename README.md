@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a fullstack developer who loves caffine, teamwork, and creating something out of nothing. 
+I'm a fullstack developer who loves caffeine, teamwork, and creating something out of nothing. 
 
 👩🏻‍💻 @LambdaSchool student - LABSPT16<br>
 💡 HTML|CSS|JavaScript|React|Redux|Context|Node|Express|SQL|PostgreSQL|Docker|Python <br>
