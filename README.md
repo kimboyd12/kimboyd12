@@ -18,6 +18,6 @@ I'm a fullstack developer who loves caffeine, teamwork, and creating something o
 
 👩🏻‍💻 @LambdaSchool student - LABSPT16<br>
 💡 HTML|CSS|JavaScript|React|Redux|Context|Node|Express|SQL|PostgreSQL|Docker|Python <br>
-🐶 Currently working on an app called Express Groomer<br>
+⚡️ Currently looking for my first developer role!<br>
 📬 Let's chat! kimberlyboyd2@gmail.com <br>
 ✨ she/her
