@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm a fullstack developer who loves caffeine, teamwork, and creating something out of nothing. 
 
-👩🏻‍💻 @LambdaSchool student - LABSPT16<br>
+👩🏻‍💻 @LambdaSchool grad<br>
 💡 HTML|CSS|JavaScript|React|Redux|Context|Node|Express|SQL|PostgreSQL|Docker|Python <br>
 ⚡️ Currently looking for my first developer role!<br>
 📬 Let's chat! kimberlyboyd2@gmail.com <br>
